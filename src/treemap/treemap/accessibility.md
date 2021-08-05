@@ -31,4 +31,4 @@ This attribute provides the text label with some default description for the fol
 </tr>
 </table>
 
-You can change this default description using the description property available in `Legend`, `TitleSettings`, `SubtitleSettings`, and `TreeMap` objects. It helps screen readers to read for assistive purpose.
+You can change this default description using the description property available in `Legend`, `TitleSettings`, `SubtitleSettings`, and `TreeMap` objects. It helps screen readers to read for assistive purpose
